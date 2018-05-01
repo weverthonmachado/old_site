@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Sobre"
-excerpt: "Sobre"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a PhD candidate in Sociology at [Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. During the 2017-2018 academic year, I'm also Visiting Graduate Researcher at the [California Center for Population Research/UCLA](https://ccpr.ucla.edu), under a Fulbright scholarship.
+
+My research interests include marriage, family and inequality. 
+
+I'll have some content here...eventually. Meanwhile, you can reach me at weverthon[at]iesp[dot]uerj[dot]com. 

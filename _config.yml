@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : 
 title                    : "Weverthon Machado"
 title_separator          : "-"
 name                     : &name "Weverthon Machado"
@@ -73,17 +73,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-1735772-6"
 
 
 # Site Author
 author:
   name             : "Weverthon Machado"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Rio de Janeiro, Brasil"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "profile2.jpeg"
+  bio              : "PhD candidate in Sociology"
+  location         : "Rio de Janeiro/ Los Angeles"
+  employer         : "UERJ/UCLA"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "twitter.com/weverthonbm"
   vine             :
   weibo            :
   xing             :
