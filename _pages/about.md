@@ -16,4 +16,4 @@ I'm a PhD candidate in Sociology at the [Institute of Social and Political Studi
 
 My research interests include marriage, family and inequality. 
 
-I'll have some content here...eventually. Meanwhile, you can reach me at weverthon[at]iesp[dot]uerj[dot]com. 
+I'll have some content here... eventually. Meanwhile, you can reach me at weverthon[at]iesp[dot]uerj[dot]br. 
