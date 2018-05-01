@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![](/images/crosstab.png)
 
-I'm a PhD candidate in Sociology at [Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. During the 2017-2018 academic year, I'm also Visiting Graduate Researcher at the [California Center for Population Research/UCLA](https://ccpr.ucla.edu), under a Fulbright scholarship.
+I'm a PhD candidate in Sociology at the[Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. During the 2017-2018 academic year, I'm also Visiting Graduate Researcher at the [California Center for Population Research/UCLA](https://ccpr.ucla.edu), under a Fulbright scholarship.
 
 My research interests include marriage, family and inequality. 
 
