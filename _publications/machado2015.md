@@ -1,7 +1,7 @@
 ---
 title: "Dimensões da estratificação social: status e classe no Brasil contemporâneo"
 collection: publications
-permalink: /publications/machado2015.md
+permalink: /publications/machado2015
 excerpt: 'MACHADO, Weverthon B. [*Dimensões da estratificação social: status e classe no Brasil contemporâneo*](weverthonmachado.github.io/files/machado2015.pdf). Dissertação (Mestrado em Sociologia) - Instituto de Estudos Sociais e Políticos, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2015'
 date: 2015-03-20
 venue: 'IESP/UERJ'
