@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Weverthon Machado"
-  avatar           : "profile2.jpg"
-  bio              : "PhD candidate in Sociology"
-  location         : "Rio de Janeiro/ Los Angeles"
-  employer         : "UERJ/UCLA"
-  googlescholar    : 
+  avatar           : "profile3.jpg"
+  bio              : "Max Weber Fellow, European University Institute"
+  location         : "Florence, Italy"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=miJiVQcAAAAJ&hl"
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-9919-4738"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
