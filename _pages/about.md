@@ -12,7 +12,7 @@ redirect_from:
   <img src="{{ site.url }}{{ site.baseurl }}/images/cross.gif" alt="">
 </figure> 
 
-I'm a sociologist interested in all the ways families are connected to inequality. Currently, I'm a postdoctoral researcher in the [Department of Sociology](https://www.uu.nl/en/organisation/sociology) at Utrecht University, working in the [GENPARENT](https://www.sofi.su.se/genparent/) project. Before 
+I'm a sociologist interested in all the ways families are connected to inequality. Currently, I'm a postdoctoral researcher in the [Department of Sociology](https://www.uu.nl/en/organisation/sociology) at Utrecht University, working in the [GENPARENT](https://www.sofi.su.se/genparent/) project. 
 
 My research interests lie mainly in the areas of social stratification and family dynamics and include union formation, marriage markets, the gendered division of labor and, more generally, the several forms of inequality between and within families.
 
