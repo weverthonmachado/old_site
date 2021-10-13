@@ -12,8 +12,10 @@ redirect_from:
   <img src="{{ site.url }}{{ site.baseurl }}/images/cross.gif" alt="">
 </figure> 
 
-I'm a sociologist interested in all the ways families are connected to inequality. My research agenda and experience lie broadly in the field of social stratification and particularly in its intersection with family demography. The main focus of my work has been on patterns, trends and consequences of assortative mating in Brazil.
+I'm a sociologist interested in all the ways families are connected to inequality. Currently, I'm a postdoctoral researcher in the [Department of Sociology](https://www.uu.nl/en/organisation/sociology) at Utrecht University, working in the [GENPARENT](https://www.sofi.su.se/genparent/) project. Before 
 
-Currently, I'm a [Max Weber Fellow](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows) at the European University Institute. I hold a Ph.D. in Sociology from the [Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. During my doctoral studies, I was visiting graduate researcher at the [California Center for Population Research/UCLA](https://ccpr.ucla.edu), under a Fulbright scholarship. Before coming to the EUI, I worked as a research assistant at the Institute for Applied Economic Research and the Oswaldo Cruz Foundation in Brazil.
+My research interests lie mainly in the areas of social stratification and family dynamics and include union formation, marriage markets, the gendered division of labor and, more generally, the several forms of inequality between and within families.
 
-You can reach me at [Weverthon.Machado@eui.eu](mailto:Weverthon.Machado@eui.eu). 
+I hold a Ph.D. in Sociology from the [Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. Before joining Utrecht University, I was a [Max Weber Fellow](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows) at the European University Institute. 
+
+You can reach me at [w.barbosamachado@uu.nl](mailto:w.barbosamachado@uu.nl). 
